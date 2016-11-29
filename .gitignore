@@ -1,0 +1,5 @@
+
+*.pro.user
+*.obj
+*.so*
+*.qmake.stash
